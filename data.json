@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Virat Kohli", "location": "Royal Challengers Bengaluru", "rating": 4.9 },
+  { "id": 2, "name": "Rohit Sharma", "location": "Mumbai Indians", "rating": 4.8 },
+  { "id": 3, "name": "MS Dhoni", "location": "Chennai Super Kings", "rating": 4.95 },
+  { "id": 4, "name": "Rishabh Pant", "location": "Delhi Capitals", "rating": 4.6 },
+  { "id": 5, "name": "KL Rahul", "location": "Lucknow Super Giants", "rating": 4.7 },
+  { "id": 6, "name": "Shubman Gill", "location": "Gujarat Titans", "rating": 4.5 },
+  { "id": 7, "name": "Sanju Samson", "location": "Rajasthan Royals", "rating": 4.4 },
+  { "id": 8, "name": "Shreyas Iyer", "location": "Kolkata Knight Riders", "rating": 4.6 },
+  { "id": 9, "name": "Hardik Pandya", "location": "Mumbai Indians", "rating": 4.3 },
+  { "id": 10, "name": "Ruturaj Gaikwad", "location": "Chennai Super Kings", "rating": 4.5 }
+]
